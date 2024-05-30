@@ -15,3 +15,5 @@ with col2:
     Cackle fruit American Main parrel gaff square-rigged fore log bilge water pillage crack Jennys tea cup ballast no prey, no pay jib Shiver me timbers flogging hogshead. Sutler Jolly Roger topgallant aye Davy Jones' Locker wherry fire in the hole deadlights heave down mutiny Arr jolly boat reef rutters Gold Road gangway. Barbary Coast capstan holystone measured fer yer chains keel list long boat loot mizzenmast swing the lead transom landlubber or just lubber lateen sail parrel gally pirate. Jolly Roger hands loot interloper belaying pin tackle stern jack jury mast brigantine rigging bowsprit transom cackle fruit Sail ho bilge water.
     '''
     st.info(content)
+    
+sep = st.sep()
